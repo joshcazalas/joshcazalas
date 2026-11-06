@@ -1,5 +1,9 @@
 # Profile maintenance
 
+The profile README was removed and the updater workflow disabled on 2026-11-06.
+The code and previous README remain in Git history if this is revisited. The
+notes below describe the former setup; restore the README before re-enabling it.
+
 The root README appears on the GitHub profile. Edit freely outside the
 `<!-- contributions:start -->` and `<!-- contributions:end -->` comments.
 The content between those comments is generated.
